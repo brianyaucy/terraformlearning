@@ -1,6 +1,6 @@
 variable brainyou_ip {
   type        = string
-  default     = "58.153.28.88/32"
+  default     = "8.8.8.8/32"
   description = "Brain's home IP address"
 }
 
