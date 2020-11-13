@@ -26,3 +26,7 @@ variable "default_tags" {
     Owner     = "Brain You"
   }
 }
+
+# variable "usernumber" {
+#  type = number
+# }
